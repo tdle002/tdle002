@@ -3,7 +3,7 @@ I’m Toan, a software engineer based in VA.
 
 I design and build whatever I can imagine.
 
-My main tech stack is mongo, express, react, and node. My favorite tools are figm and apple notes.
+My main tech stack is mongo, express, react, and node. My favorite tools are figma and apple notes.
 
 Fun Facts:
 I have a pet fish called muncher
