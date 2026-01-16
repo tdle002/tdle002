@@ -1,5 +1,5 @@
 Hey there! 
-I’m Toan, a software engineer based in Chantilly, VA.
+I’m Toan, a software engineer based in VA.
 
 I design and build whatever I can imagine.
 
