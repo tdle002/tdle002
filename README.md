@@ -7,5 +7,5 @@ My main tech stack is mongo, express, react, and node. My favorite tools are fig
 
 Fun Facts:
 I have a pet fish called sushi.
-Naruto is my favorite anime. < br / >
-Hobbies: homelabbing, gym, building things.  < br / >
+Naruto is my favorite anime. <br/>
+Hobbies: homelabbing, gym, building things.  <br/>
