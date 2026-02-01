@@ -1,6 +1,4 @@
-Hey there! <br/> 
-
----
+Hey there! <br/> <br/>
 
 I’m Toan, a software engineer based in VA.
 
