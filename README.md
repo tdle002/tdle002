@@ -1,5 +1,4 @@
 Hey there! <br/> <br/>
-
 I’m Toan, a software engineer based in VA.
 
 I design and build whatever I can imagine.
